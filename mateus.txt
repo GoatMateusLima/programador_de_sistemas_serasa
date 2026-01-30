@@ -1,0 +1,14 @@
+o tema do site sera sustentabilidade,
+
+crie um site onde no header(o header deve ter uma largura de 100%, altura fixa de 110px), O header deve ter a logo, um nav onde tenha hyperlinks para mais informacoes, links de redes sociais como linkedin, whatsapp fake mas com icons arredondados.
+
+No header deve ficar como display flex deixando tudo na horizontal, a logo deve ter um espaco no canto, talvez um padding de 10px, o nav deve ser flex verticalmente porem com limite de quebra de linhas ou seja a cada 3 links ele quebra e cria outra linha assim tendo 3 colunas que no total da 9 links,  a barra de pesquisa deve ser minimalista por isso uma altura de 20px. cada um dos campos que esta dentro do header devem ser espalhados com space-between.
+
+no main quero que voce separe por secoes onde cada secao tenha informacoes relacionadas a sustentabilidade:
+
+"investimento, educaco ambiental, preservacao, terras indigenas, estrategia, replantio, reciclagem, economia de recursos, mineracao, desmatamento, mudancas climaticas, poluicao, agrotoxicos, agro, predatoria, expansao, escasses, falta dagua, consumo excessivo"
+
+
+o layout do site vai ser o seguinte, cada section deve conter um largura maxima de 100%, cada secao seguira uma ordem ou seja a primeira secao as informacoes estao na esquerda para direita e na segunda section estara na direita para esquerda, tera botoes que levarao para outras paginas, cada botapo tera um hover de 6s, cada section sera dividida em 2 colunas usando flex, onde seguindo a logica de cima a primeira coluna tem a foto e texto abaixo dela, na segunda coluna deve ter uma descricao de solucao e um botao que leve para outra pagina, os botoes devem ser cirados sme tag button, use a tag A e crie um botaoa estilizando ela com border-radius em 20px e cor #c03e02
+
+ja os botoes primarios de acao para contratar o servico sendo da cor #f0bc2c
