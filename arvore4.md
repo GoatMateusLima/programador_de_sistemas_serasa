@@ -22,13 +22,13 @@ main {
 
 ### 1 section hero: maior problema e principal prioblema de um cpf invisivel e chamada para acao
 
-### 2 section: bancos parceiros, use logos de todos os bancos girando de forma infinita na horizontal, todos bancos.
+### 2 section: bancos parceiros, use logos de todos os bancos girando de forma infinita na horizontal, todos bancos e serasa.
 
 ### 3 section: historia motivacional onde tenha as dores mais comuns de um cpf invisivel(dependencia familia, jovens inicio de vida, oportunidade inicial, trabalho, renda instavel, aluguel informal, desigualdade de acesso, exclusao digital, falta de informacao)
 
-### section CTA: Aqui deve  ter as solucoes() e um botao que leva aos planos e contato com nossa empresa para uma pre avaliacao e compra desse suporte, a comunidade é livre.
+### section CTA: Aqui deve  ter as solucoes(acesso inicial ao credito, cadastro voluntario, parceria instituicoes lojas, projeto porto para jovens, reagindo a compromissos essenciais ) e um botao que leva aos planos e contato com nossa empresa para uma pre avaliacao e compra desse suporte.
 
-### 4 section: demostracao de tudo que resolvemos, e comentarios de usuarios que tiveram, uma vida melhor após o uso do nosso programa e após fazer acesso a nossa comunidade
+### 4 section: demostracao de tudo que resolvemos, e comentarios de usuarios que tiveram, uma vida melhor após o uso do nosso programa
 
 ### 5 section: Provocação com com provas, soluçoes e problemas e o CTA
 
@@ -46,19 +46,17 @@ estilo_base{
 use uam cor relacionada ao tema
 ### geral: 
 
-use uma cor relacionada ao tema que combine com todos os sections dando um ar  de minimalismo e futuro, com toque de identidade, coloque shadow em locais estratergicos para dar sensacao de conexoa com o site
+use uma cor relacionada ao tema que combine com todos os sections dando um ar  de minimalismo e futuro, com toque de identidade, coloque shadow em locais estratergicos para dar sensacao de conexoa com o site e alguns parallax
 
 ### section 1:
-uma grande frase que chama atencao do usuario logo ao entrar e uma organizacao onde o texto principal o h1 fica no meio da tela e  abaixo toda informacao em um paragrafo,
-
-porem os botoes devem ficar na direita
+uma grande frase que chama atencao do usuario logo ao entrar e uma organizacao onde o texto principal o h1 fica no canto esquerdo da tela e  abaixo toda informacao em um paragrafo, porem os botoes devem ficar na direita
 
 
 ### section 2: 
 efeito de rolagem ifinita horizontal, dando sencacao de nao ter fim
 
 ### section 3: 
-use a criatividade e botoes arredondados que levam para estudos reais feito por universidades e por cientistas.
+use a criatividade e botoes arredondados que levam para estudos reais feito por universidades e por cientistas, lgpd, ciberseguranca.
 
 ### section CTA: 
 
@@ -71,5 +69,5 @@ aqui usamos o tema  e organizacao das outras sections para demostrar nosso valor
 seguindo os demais temas vamo criar uma persuasao para levar o usuario a comprar o nosso servico
 
 ### footer:
-estruturado na horizontal com flex e
+estruturado na horizontal com flex
 }

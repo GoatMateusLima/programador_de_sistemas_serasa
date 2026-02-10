@@ -11,13 +11,9 @@
 <body>
     <header class="cabeca">
         <h1>NeuroBase</h1>
-        <nav class="navegacao">
-            <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-            </ul>
+        <nav class="top-bar">
+           <a href="#about" class="menu" id="link_about">Sobre mim</a>
+           <a id="contact" class="menu">Contato</a>
         </nav>
         <input type="text" class="pesquisa">
         <nav class="redes">
@@ -31,7 +27,7 @@
         <a href="" class="button segundary shadow">botao</a>
     </header>
     <main>
-        <section class="container">
+        <section class="row">
             <section class="apresentacao">
                 <h2>headline</h2>
                 <figure class="slide">
@@ -48,22 +44,36 @@
                     <a href="" class="button segundary shadow">Botao</a>
                     <a href="" class="button primary shadow">Botao</a>
                 </section>
-                <!-- Sempre usar classes com nome de especificacao -->>
+                <!-- Sempre usar classes com nome de especificacao -->
             </section>
         </section>
-        <hr>
+        <section class="center parallax">
+                <h2>parallax</h2>
+        </section>
         <section class="section2">
             <h2>subtitulo</h2>
             <p>descricap</p>
             <section class="container_blocos lg-3">
-                <div class="shadow"><p>1</p></div>
-                <div class="shadow"><p>2</p></div>
-                <div class="shadow"><p>3</p></div>
+                <div class="shadow">
+                    <p>1</p>
+                </div>
+                <div class="shadow">
+                    <p>2</p>
+                </div>
+                <div class="shadow">
+                    <p>3</p>
+                </div>
 
-                <div class="shadow"><p>4</p></div>
-                <div class="shadow"><p>5</p></div>
-                <div class="shadow"><p>6</p></div>
-               
+                <div class="shadow">
+                    <p>4</p>
+                </div>
+                <div class="shadow">
+                    <p>5</p>
+                </div>
+                <div class="shadow">
+                    <p>6</p>
+                </div>
+
             </section>
         </section>
         <section class="section3">
@@ -73,7 +83,9 @@
                 <div>
                     <span class="big-number">40 MM</span>
                     <p class="description">Estudantes</p>
-                    <p class="hidden">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur fugiat quas sint impedit! Inventore consectetur reiciendis repellat ex perferendis eligendi odio harum tempora nulla laborum magni, culpa, nostrum, neque ratione!</p>
+                    <p class="hidden">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur fugiat quas
+                        sint impedit! Inventore consectetur reiciendis repellat ex perferendis eligendi odio harum
+                        tempora nulla laborum magni, culpa, nostrum, neque ratione!</p>
                 </div>
                 <div></div>
                 <div></div>
@@ -81,7 +93,23 @@
             </div>
 
         </section>
+        <section class="row container-info" id="about">
+            <div class="perfil">
+                <img src="mateus.png" alt="" >
+            </div>
+            <div class="collum info" >
+                <h2 class="name">Mateus Lima Bispo</h2>
+                <p class="description">Eu sou um Desenvolvedor Front-End</p>
+                <div class="row">
+                    <a href="" class="button primary circle linkedin t" ></a>
+                    <a href="" class="button segundary circle gmail t"></a>
+
+                </div>
+
+            </div>
+
+        </section>
     </main>
 </body>
-
+<script src="script.js"></script>
 </html>
