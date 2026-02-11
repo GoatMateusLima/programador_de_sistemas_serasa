@@ -14,8 +14,15 @@
         <nav class="top-bar">
            <a href="#about" class="menu" id="link_about">Sobre mim</a>
            <a id="contact" class="menu">Contato</a>
+           
+           <!--This é o proprio elemento-->
+           <!--onchange é houve mudanca, ou seja houve mudanca ele chama a funcao -->
+           <!--Onkeydown usado para cirar uma funcao na qual identifica cada letra digitada-->
+           <input type="email" placeholder="Digite o seu melhor e-mail:" onkeydown="setEmail(event)">
+
+           
+           <a class="button primary shadow" onclick="handleRegister()">Cadastre-se</a>
         </nav>
-        <input type="text" class="pesquisa">
         <nav class="redes">
             <a href=""><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="" class="cdn-icons-png"></a>
             <a href=""><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt=""

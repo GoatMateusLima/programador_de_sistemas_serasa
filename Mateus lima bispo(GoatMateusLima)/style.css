@@ -311,3 +311,26 @@ span.big-number{
 #link_about{
     color: #f0bc2c;
 }
+
+input{
+    
+    border-radius: 10px;
+    border: solid 3px #e7b50fc9;
+    padding: 5px 10px;
+    color: #000;
+    background-color: #fff;
+    /*fundos escuros sombras claras, fundos claros sombras escuras*/
+    box-shadow: -1px -1px -2px -1px rgba(0, 0, 0, 0.699) inset;
+    /*Tipos de navegador*/
+    -moz-box-shadow: -1px -1px 2px 1px rgba(0, 0, 0, 0.699) inset ;
+    -webkit-box-shadow: -1px -1px 2px 3px rgba(0, 0, 0, 0.699)  inset ;
+}
+
+input:focus-visible{
+    /*fundos escuros sombras claras, fundos claros sombras escuras*/
+    box-shadow: -1px -1px -2px -1px rgb(192, 62, 2) inset;
+    /*Tipos de navegador*/
+    -moz-box-shadow: -1px -1px 2px 1px rgb(192, 62, 2) inset ;
+    -webkit-box-shadow: -1px -1px 2px 3px rgb(192, 62, 2)  inset ;
+
+}
