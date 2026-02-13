@@ -262,3 +262,6 @@ Conformidade.png
 
 
    pegue a section depois do roadmap(aquela com "pronto para conhecer o futuro?"), tire o conteudo dela e complete o roadmap nas duas section
+
+
+   va na secao acima do roadmap aquela "A Realidade Que Ninguém Conta" a section 2, pegue os cards dela e coloque rolagem horizontal ifinita, o efeito deve ser extremamente lento, e deve ter botoes no canto esquerdo e direto que de sensacao de slide, tambem deve permitir o usussario movimentar com o mouse clicando e segurando, lembrese que a rolagem é ifinita ou seja nao deve ter limite de rolagem ele deve comecar e quando terminar ele comeca dnv sem mostrar ao usuario que ta voltando para o comeco
