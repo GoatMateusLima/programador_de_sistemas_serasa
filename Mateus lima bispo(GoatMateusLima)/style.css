@@ -334,3 +334,33 @@ input:focus-visible{
     -webkit-box-shadow: -1px -1px 2px 3px rgb(192, 62, 2)  inset ;
 
 }
+
+
+.toast{
+    position: fixed;
+    right: 5px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    width: 190px;
+    background-color: #f00;
+    color: white;
+    z-index: 10;
+}
+
+
+.card > div{
+    display: flex;
+    align-items: center;
+
+    flex-direction: column;
+    background-color: #064e4e !important;
+    color:#fff;
+
+}
+
+.card{
+
+    display: flex;
+    justify-content: center;
+    width: 100% !important;
+}
